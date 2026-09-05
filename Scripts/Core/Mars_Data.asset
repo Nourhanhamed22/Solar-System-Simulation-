@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7860e4a73665243905e6c338df3777, type: 3}
+  m_Name: Mars_Data
+  m_EditorClassIdentifier: 
+  planetName: Mars
+  planetIcon: {fileID: 0}
+  description: The Red Planet with the largest volcano in the solar system
+  diameter: 6,779 km
+  distanceFromSun: 227.9 million km
+  orbitalPeriod: 687 days
+  rotationPeriod: 24.6 hours
+  numberOfMoons: 2
+  surfaceTemperature: "-125\xB0C to 20\xB0C"
+  gravity: "3.72 m/s\xB2"
+  atmosphere: CO2 95% Argon 2%
+  funFact: Olympus Mons is 3x taller than Everest
+  planetAmbientSound: {fileID: 8300000, guid: b724ead1f2ca55a44bc6b7e0fdb6bf56, type: 3}
+  soundVolume: 0.7

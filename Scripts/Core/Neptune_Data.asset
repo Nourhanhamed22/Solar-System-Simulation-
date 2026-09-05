@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7860e4a73665243905e6c338df3777, type: 3}
+  m_Name: Neptune_Data
+  m_EditorClassIdentifier: 
+  planetName: Neptune
+  planetIcon: {fileID: 0}
+  description: The windiest planet with speeds reaching 2100 km per hour
+  diameter: 49,244 km
+  distanceFromSun: 4.5 billion km
+  orbitalPeriod: 164.8 years
+  rotationPeriod: 16 hours
+  numberOfMoons: 16
+  surfaceTemperature: "-214\xB0C"
+  gravity: "11.15 m/s\xB2"
+  atmosphere: Hydrogen Helium Methane
+  funFact: Neptune has the strongest winds in the entire solar system
+  planetAmbientSound: {fileID: 8300000, guid: e093c51bd80a78647ac2ad5230172f19, type: 3}
+  soundVolume: 0.7

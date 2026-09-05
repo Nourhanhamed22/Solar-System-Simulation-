@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7860e4a73665243905e6c338df3777, type: 3}
+  m_Name: Saturn_Data
+  m_EditorClassIdentifier: 
+  planetName: Saturn
+  planetIcon: {fileID: 0}
+  description: The ringed planet  with the most spectacular ring system
+  diameter: 116,460 km
+  distanceFromSun: 1.4 billion km
+  orbitalPeriod: 29.5 years
+  rotationPeriod: 10.7 hours
+  numberOfMoons: 146
+  surfaceTemperature: "-178\xB0C"
+  gravity: "10.44 m/s\xB2"
+  atmosphere: Hydrogen 96% Helium 3%
+  funFact: ' Saturn is less dense than water it would float'
+  planetAmbientSound: {fileID: 8300000, guid: 15b833b3c9524664a8f83d4c0151dbb6, type: 3}
+  soundVolume: 0.7

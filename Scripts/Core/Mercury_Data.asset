@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7860e4a73665243905e6c338df3777, type: 3}
+  m_Name: Mercury_Data
+  m_EditorClassIdentifier: 
+  planetName: Mercury
+  planetIcon: {fileID: 0}
+  description: The smallest planet closest to the Sun with extreme temperatures
+  diameter: 4,879 km
+  distanceFromSun: 57.9 million km
+  orbitalPeriod: 88 days
+  rotationPeriod: 1,408 hours
+  numberOfMoons: 0
+  surfaceTemperature: "-180\xB0C to 430\xB0C"
+  gravity: "3.7 m/s\xB2"
+  atmosphere: Minimal sodium oxygen
+  funFact: A year on Mercury is shorter than its day
+  planetAmbientSound: {fileID: 8300000, guid: 3c28a85a6aeb89e428cc66fce1b4180e, type: 3}
+  soundVolume: 0.7

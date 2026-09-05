@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7860e4a73665243905e6c338df3777, type: 3}
+  m_Name: Earth_Data
+  m_EditorClassIdentifier: 
+  planetName: Earth
+  planetIcon: {fileID: 0}
+  description: "The only known planet to support life.\n 71% covered by water."
+  diameter: 12,742km
+  distanceFromSun: 149.6 million km
+  orbitalPeriod: 356.25 days
+  rotationPeriod: 24 hours
+  numberOfMoons: 1
+  surfaceTemperature: "-88\xB0C to 58\xB0C"
+  gravity: "9.8 m/s\xB2"
+  atmosphere: Nitrogen 78%, Oxygen 21%
+  funFact: Earth is the densest planet in the solar system
+  planetAmbientSound: {fileID: 8300000, guid: 96734bef32ed7724cafcfd210641f5a1, type: 3}
+  soundVolume: 0.7
