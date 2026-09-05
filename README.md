@@ -48,6 +48,3 @@ As part of the development team, I was responsible for the end-to-end developmen
 - Add sound design and ambient background audio for a more immersive experience
 - Optimize assets further for smoother performance on lower-end devices
 
-## 👩‍💻 Author
-**Nourhan Hamed** — Jupiter Module Developer
-Computer & Information Systems Student | Cybersecurity & Networking
